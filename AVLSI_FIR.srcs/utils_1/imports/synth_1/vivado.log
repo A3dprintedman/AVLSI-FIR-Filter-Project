@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Apr  1 12:22:34 2025
+# Process ID         : 2620
+# Current directory  : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent24008 C:\Users\ericka\Documents\AVSLI_FIR\AVLSI_FIR\AVLSI_FIR.srcs\utils_1\imports\synth_1\fir_filter_pipelined.dcp
+# Log file           : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file       : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On         : LAPTOP-QHLAT4H1
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 PRO 4650U with Radeon Graphics
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16349 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 26012 MB
+# Available Virtual  : 5385 MB
+#-----------------------------------------------------------
+start_gui
+open_checkpoint C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1/fir_filter_pipelined.dcp
+Command: open_checkpoint C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1/fir_filter_pipelined.dcp
+
+Starting open_checkpoint Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.119 . Memory (MB): peak = 1077.375 ; gain = 7.609
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2024.2/data/ip'.
+INFO: [Device 21-403] Loading part xczu5ev-sfve784-1LV-i
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.151 . Memory (MB): peak = 2133.070 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 925 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 4 CPU seconds
+WARNING: [Netlist 29-101] Netlist 'Two_Parallel' is not ideal for floorplanning, since the cellview 'Two_Parallel' contains a large number of primitives.  Please consider enabling hierarchy in synthesis if you want to do floorplanning.
+INFO: [Project 1-479] Netlist was created with Vivado 2024.2
+INFO: [Common 17-344] 'open_checkpoint' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Apr  1 12:29:56 2025...

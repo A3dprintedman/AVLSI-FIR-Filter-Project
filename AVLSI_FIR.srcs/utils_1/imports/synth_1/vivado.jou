@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Apr  1 12:22:34 2025
+# Process ID         : 2620
+# Current directory  : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent24008 C:\Users\ericka\Documents\AVSLI_FIR\AVLSI_FIR\AVLSI_FIR.srcs\utils_1\imports\synth_1\fir_filter_pipelined.dcp
+# Log file           : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1/vivado.log
+# Journal file       : C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1\vivado.jou
+# Running On         : LAPTOP-QHLAT4H1
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 PRO 4650U with Radeon Graphics
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16349 MB
+# Swap memory        : 9663 MB
+# Total Virtual      : 26012 MB
+# Available Virtual  : 5385 MB
+#-----------------------------------------------------------
+start_gui
+open_checkpoint C:/Users/ericka/Documents/AVSLI_FIR/AVLSI_FIR/AVLSI_FIR.srcs/utils_1/imports/synth_1/fir_filter_pipelined.dcp
